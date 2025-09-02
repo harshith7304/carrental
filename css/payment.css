@@ -12,7 +12,7 @@ body {
 	display: flex;
     flex-direction: column;
     background-color: #DFDBE5;
-    background-image: url("makes_bg.jpg");
+    background-image: url("../images/makes_bg.jpg");
     color:#963E7B;
 }
 
